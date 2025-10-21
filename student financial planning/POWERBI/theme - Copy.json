@@ -1,0 +1,25 @@
+{
+  "name": "Neutral Professional Theme",
+  "dataColors": [
+    "#4A6FA5",
+    "#A2674A",
+    "#557C55",
+    "#D97B66",
+    "#C4C4C4",
+    "#8C8C8C"
+  ],
+  "background": "#F7F7F7",
+  "foreground": "#333333",
+  "tableAccent": "#4A6FA5",
+  "visualStyles": {
+    "*": {
+      "*": {
+        "color": [{ "solid": { "color": "#333333" } }],
+        "background": [{ "solid": { "color": "#FFFFFF" } }],
+        "titleText": [{ "color": "#333333" }],
+        "labelColor": [{ "solid": { "color": "#4A4A4A" } }],
+        "fontFamily": "Segoe UI"
+      }
+    }
+  }
+}
